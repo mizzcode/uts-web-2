@@ -23,6 +23,9 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## How to install?
 clone this repo to your machine
+```
+git clone https://github.com/mizzcode/uts-web-2.git
+```
 install dependencies:
 ```
 npm install
