@@ -31,7 +31,7 @@ install dependencies:
 npm install
 composer install
 ```
-copy env and generate .env
+copy env and generate key app
 ```
 cp .env.example .env
 php artisan key:generate
